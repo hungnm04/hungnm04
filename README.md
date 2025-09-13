@@ -15,10 +15,14 @@ Exploring the intersection of **software engineering** and **cybersecurity** —
 
 <a href="https://github.com/hungnm04/Bumpy-Road">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=hungnm04&repo=Bumpy-Road&theme=onedark" />
-</a>
+</a>  
+*Mountainous destionations with real-time updates*  
+
 <a href="https://github.com/hungnm04/StudyPad">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=hungnm04&repo=StudyPad&theme=onedark" />
-</a>
+</a>  
+*Vulnerable web app with CI/CD security pipeline*  
+
 
 ---
 
