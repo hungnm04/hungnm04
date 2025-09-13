@@ -14,7 +14,9 @@ Exploring the intersection of **software engineering** and **cybersecurity** —
 ## 🛠️ Languages & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java, postgres, docker, githubactions" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,java,docker,githubactions,postgres,vim,kali&theme=light" />
+  </a>
 </p>
 
 ---
