@@ -13,13 +13,20 @@ Exploring the intersection of **software engineering** and **cybersecurity** —
 
 ## 🛠️ Languages & Tools  
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java, postgres, docker, githubactions" />
 </p>
 
 ---
 
-## Current Focus  
-- Web application pentesting (OWASP Top 10)  
+## 🔬 Selected Projects
+
+- [Bumpy Road](https://github.com/hungnm04/Bumpy-Road) – collaborative travel planning API with real-time updates (Node.js, PostgreSQL, Socket.IO)  
+- [StudyPad](https://github.com/hungnm04/StudyPad) – Django app with intentional vulnerabilities for security testing + CI/CD security pipeline
+
+---
+
+## 🎯 Current Focus  
+- Web and API pentesting (OWASP Top 10)  
 - Secure DevOps pipelines (CI/CD with GitHub Actions, Docker, SAST/SCA)  
 - Building side projects that test both code and security logic  
