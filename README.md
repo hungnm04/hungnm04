@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👤 Who I Am  
+Exploring the intersection of **software engineering** and **cybersecurity** — building systems that work, and breaking those that don’t.  
 
-<!--
-**hungnm04/hungnm04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📊 GitHub Snapshot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/hungnm04">
+  <img height=160 src="https://github-readme-stats.vercel.app/api?username=hungnm04&show_icons=true&theme=tokyonight&hide=contribs,issues" />
+</a>
+
+---
+
+## 🛠️ Languages & Tools  
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
+</p>
+
+---
+
+## Current Focus  
+- Web application pentesting (OWASP Top 10)  
+- Secure DevOps pipelines (CI/CD with GitHub Actions, Docker, SAST/SCA)  
+- Building side projects that test both code and security logic  
