@@ -1,5 +1,5 @@
 ## 👤 Who I Am  
-Exploring the intersection of **software engineering** and **cybersecurity** — building systems that work, and breaking those that don’t.  
+Exploring the intersection of **software engineering** and **cybersecurity** — I like building things that work and testing them until they break. 
 
 ---
 
