@@ -6,7 +6,7 @@ Exploring the intersection of **software engineering** and **cybersecurity** —
 ## 📊 GitHub Snapshot
 
 <a href="https://github.com/hungnm04">
-  <img height=160 src="https://github-readme-stats.vercel.app/api?username=hungnm04&show_icons=true&theme=tokyonight&hide=contribs,issues,rank" />
+  <img height=160 src="https://github-readme-stats.vercel.app/api?username=hungnm04&show_icons=true&theme=tokyonight&hide=contribs,issues&rank_icon=github" />
 </a>
 
 ---
@@ -14,15 +14,11 @@ Exploring the intersection of **software engineering** and **cybersecurity** —
 ## 🔬 Selected Projects  
 
 <a href="https://github.com/hungnm04/Bumpy-Road">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hungnm04&repo=Bumpy-Road&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hungnm04&repo=Bumpy-Road&theme=onedark&cache_seconds=21600" />
 </a>  
-*Mountainous destionations with real-time updates*  
-
 <a href="https://github.com/hungnm04/StudyPad">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hungnm04&repo=StudyPad&theme=onedark" />
-</a>  
-*Vulnerable web app with CI/CD security pipeline*  
-
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hungnm04&repo=StudyPad&theme=onedark&cache_seconds=21600" />
+</a>
 
 ---
 
@@ -35,8 +31,3 @@ Exploring the intersection of **software engineering** and **cybersecurity** —
 </p>
 
 ---
-
-## 🎯 Current Focus  
-- Web and API pentesting (OWASP Top 10)  
-- Secure DevOps pipelines (CI/CD with GitHub Actions, Docker, SAST/SCA)  
-- Building side projects that test both code and security logic  
