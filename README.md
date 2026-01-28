@@ -1,6 +1,5 @@
 ## 👤 Who I Am  
-Exploring the intersection of **software engineering** and **cybersecurity** — I like building things that work and testing them until they break. 
-
+Focused on **network** and **web application** security within modern software systems.
 ---
 
 ## 📊 GitHub Snapshot
@@ -20,20 +19,4 @@ Exploring the intersection of **software engineering** and **cybersecurity** —
 <a href="https://github.com/hungnm04/StudyPad">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=hungnm04&repo=StudyPad&theme=onedark&cache_seconds=21600" />
 </a>
-
-
----
-
-## 🛠️ Languages & Tools  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security-Network_Security-4B0082?style=flat" />
-  <img src="https://img.shields.io/badge/Security-Web_App_Security-800000?style=flat" />
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-</p>
-
-
 ---
