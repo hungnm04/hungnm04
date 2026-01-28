@@ -13,12 +13,14 @@ Exploring the intersection of **software engineering** and **cybersecurity** —
 
 ## 🔬 Selected Projects  
 
-<a href="https://github.com/hungnm04/Bumpy-Road">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hungnm04&repo=Bumpy-Road&theme=onedark&cache_seconds=21600" />
-</a>  
+<a href="https://github.com/hungnm04/CTC">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hungnm04&repo=CTC&theme=onedark&cache_seconds=21600" />
+</a>
+
 <a href="https://github.com/hungnm04/StudyPad">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=hungnm04&repo=StudyPad&theme=onedark&cache_seconds=21600" />
 </a>
+
 
 ---
 
