@@ -32,7 +32,7 @@ Exploring the intersection of **software engineering** and **cybersecurity** —
   <img src="https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Security-Network_Security-4B0082?style=flat" />
   <img src="https://img.shields.io/badge/Security-Web_App_Security-800000?style=flat" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </p>
 
 
