@@ -27,9 +27,13 @@ Exploring the intersection of **software engineering** and **cybersecurity** —
 ## 🛠️ Languages & Tools  
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,docker,githubactions,postgres,vim,kali&theme=light" />
-  </a>
+  <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security-Network_Security-4B0082?style=flat" />
+  <img src="https://img.shields.io/badge/Security-Web_App_Security-800000?style=flat" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
 </p>
+
 
 ---
